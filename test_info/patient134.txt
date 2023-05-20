@@ -1,0 +1,5 @@
+ED: 1
+ES: 15
+Height: 185.0
+NbFrame: 35
+Weight: 104.0
